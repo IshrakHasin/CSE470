@@ -1,0 +1,3 @@
+class NewsPaperContinentDetails:
+    newspaperName=""
+    newpaperValue=""
